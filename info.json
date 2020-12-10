@@ -1,0 +1,8 @@
+﻿{
+  "Id": "Experience_Rewards_Difficulty",
+  "DisplayName": "Experience_Rewards_Difficulty",
+  "Author": "ToxicCoderAJ",
+  "Version": "0.1.3",
+  "AssemblyName": "Experience_Rewards_Difficulty.dll",
+  "EntryMethod": "Experience_Rewards_Difficulty.Main.Load"
+}
